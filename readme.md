@@ -14,7 +14,7 @@
 <br>
 
 <h1>Experiências Profissionais</h1>
-<p>Trabalho atualmente na área petroquímica e estou migrando para a área web</p>
+<p>Trabalho atualmente na área petroquímica como técnico de instrumentação industrial e estou migrando para a área web</p>
 <br>
 <ul>
     <li>HTML</li>
@@ -31,13 +31,13 @@
 <div>
 <a href="https://www.linkedin.com/in/rafael-debortoli-9b988878/" target="_blank" >
 
-<img src="https://tse1.mm.bing.net/th?id=OIP.ozDiSGJlUqI6815cRlJiNAHaHa&pid=Api&rs=1&c=1&qlt=95&w=121&h=121" style="width:100px; heigth:100px; border-radius:10px;">
+<img src="https://tse1.mm.bing.net/th?id=OIP.ozDiSGJlUqI6815cRlJiNAHaHa&pid=Api&rs=1&c=1&qlt=95&w=121&h=121" style="width:50px;  border-radius:10px;">
 
 <a href="https://www.instagram.com/debortolirafael25/" target="_blank" >
 
-<img src="https://tse1.mm.bing.net/th?id=OIP.fQwu4djRPJKfWctBP_urzAHaHZ&pid=Api&rs=1&c=1&qlt=95&w=121&h=121" style="width:100px; border-radius:30px;">
+<img src="https://tse1.mm.bing.net/th?id=OIP.Nfyh9yL-Oc4-Yt630pXJSgHaHL&pid=Api&P=0&w=182&h=176" style="width:50px; border-radius:30px;">
 
 <a href="https://www.facebook.com/rafael.debortoli.25/" target="_blank" >
 
-<img src="https://tse1.mm.bing.net/th?id=OIP.PA2kREVfZLR4uiP3jBUP3wHaHJ&pid=Api&rs=1&c=1&qlt=95&w=122&h=118" style="width:100px; heigth:100px; border-radius:900px;">
+<img src="https://tse1.mm.bing.net/th?id=OIP.PA2kREVfZLR4uiP3jBUP3wHaHJ&pid=Api&rs=1&c=1&qlt=95&w=122&h=118" style="width:50px;  border-radius:900px;">
 </div>
