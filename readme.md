@@ -28,9 +28,16 @@
 <p> HTML, CSS3, JAVASCRIPT</p>
 
 <h1 style="color:red">Redes Sociais</h1>
+<div>
+<a href="https://www.linkedin.com/in/rafael-debortoli-9b988878/" target="_blank" >
 
-<a href="https://www.linkedin.com/in/rafael-debortoli-9b988878/" target="blank" alt="linkedin">
+<img src="https://tse1.mm.bing.net/th?id=OIP.ozDiSGJlUqI6815cRlJiNAHaHa&pid=Api&rs=1&c=1&qlt=95&w=121&h=121" style="width:100px; heigth:100px; border-radius:10px;">
 
-<a href="https://www.instagram.com/debortolirafael25/" target="blank" alt="instagran">
+<a href="https://www.instagram.com/debortolirafael25/" target="_blank" >
 
-<a href="https://www.facebook.com/rafael.debortoli.5/" target="blank" alt="facebook">
+<img src="https://tse1.mm.bing.net/th?id=OIP.fQwu4djRPJKfWctBP_urzAHaHZ&pid=Api&rs=1&c=1&qlt=95&w=121&h=121" style="width:100px; border-radius:30px;">
+
+<a href="https://www.facebook.com/rafael.debortoli.25/" target="_blank" >
+
+<img src="https://tse1.mm.bing.net/th?id=OIP.PA2kREVfZLR4uiP3jBUP3wHaHJ&pid=Api&rs=1&c=1&qlt=95&w=122&h=118" style="width:100px; heigth:100px; border-radius:900px;">
+</div>
