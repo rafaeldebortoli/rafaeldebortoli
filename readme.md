@@ -1,7 +1,7 @@
-<h1>"A persistência é o caminho do êxito."</h1>
+<h1 style="font-family:times new roman;">"A persistência é o caminho do êxito."</h1>
 
 </h1><img src="https://tse4.mm.bing.net/th?id=OIP.NJtqPn99HZkIENz17ten6wHaFj&pid=Api&P=0&w=238&h=179" style="width:500px; border-radius:30px 30px 30px
-30px;">
+30px; align-item:center;">
 
 <h1 style="color:red;font-family:courier;">Nome</h1>
 <p>Rafael Debortoli</p>
